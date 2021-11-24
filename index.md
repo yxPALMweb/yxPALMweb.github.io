@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am now an Associate professor at [PALM](http://palm.seu.edu.cn/home.html) lab, Department of Computer Science, Southeast University (SEU), China. I got my B.S. degree from Nanjing University of Posts and Telecommunications (NUPT), M.S. degree from Southeast University (SEU), and Ph.D. from Nanyang Technological University (NTU) supervised by Prof Jianfei Cai and Hanwang Zhang. 
+I am now an Associate professor at [PALM](http://palm.seu.edu.cn/home.html) lab, Department of Computer Science, Southeast University (SEU), China. I got my B.S. degree from Nanjing University of Posts and Telecommunications (NUPT), M.S. degree from Southeast University (SEU) supervised by prof Xin Geng, and Ph.D. from Nanyang Technological University (NTU) supervised by Prof Jianfei Cai and Hanwang Zhang. 
 
 ## Research Interests
 I have wide interest on AI, especially machine learning and deep learning. In the past and future few years, I will focus on the following topics:
@@ -109,20 +109,6 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </p>
 </div>
 
-[comment]: <> (cvpr2019.)
-<div class="paper">
-<p><strong>Auto-encoding scene graphs for image captioning</strong>
-<br />
-<strong>Xu Yang</strong>, Kaihua Tang, Hanwang Zhang, Jianfei Cai
-
-<br />
-<em>Conference on Computer Vision and Pattern Recognition. <strong><i style="color:#1e90ff">CVPR 2019</i></strong>.</em>
-<br /> 
-   [<a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Auto-Encoding_Scene_Graphs_for_Image_Captioning_CVPR_2019_paper.pdf">PDF</a>]<strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-<br/>
-</p>
-</div>
-
 [comment]: <> (ECCV2018.)
 <div class="paper">
 <p><strong>Shuffle-then-assemble: learning object-agnostic visual relationship features</strong>
@@ -165,3 +151,11 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 <br/>
 </p>
 </div>
+
+## Misc
+When I have some available time, I usually read, swim, and run. I have ubiquitous interest on different topics of the books, including Computer Science, Philosophy, History, Politics, Literature, and Detective Fiction
+Some recommended books:
+- **Research Related:** 《How To Read a Book》, 《Style, Toward Clarity and Grace》, 《The Craft of Research》
+- **Philosophy** 《The Book of Why》, 《The Structure of Scientific Revolutions》，《The Big Questions: A Short Introduction to Philosophy》
+- **Literature** 《百年孤独》,《战争与和平》,《三国演义》
+

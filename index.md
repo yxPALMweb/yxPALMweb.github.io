@@ -33,7 +33,6 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 <br />
 <em>IEEE Transactions on Pattern Analysis and Machine Intelligence.<strong><i style="color:#1e90ff">TPAMI</i></strong>.</em>
 <br /> 
-<br /> 
    [<a href="https://ieeexplore.ieee.org/document/9279262">Web</a>]
 <br/>
 </p>

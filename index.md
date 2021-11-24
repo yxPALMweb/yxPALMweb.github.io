@@ -73,7 +73,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 <strong>Xu Yang</strong>, Chongyang Gao, Hanwang Zhang, Jianfei Cai
 
 <br />
-<em>ACM International Conference on Multimedia. <strong><i style="color:#1e90ff">CVPR 2019</i></strong>.</em>
+<em>ACM International Conference on Multimedia. <strong><i style="color:#1e90ff">ACMMM 2020</i></strong>.</em>
 <br /> 
    [<a href="https://dl.acm.org/doi/abs/10.1145/3394171.3413859">Web</a>]
 <br/>

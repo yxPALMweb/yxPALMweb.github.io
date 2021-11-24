@@ -153,9 +153,10 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </div>
 
 ## Misc
-When I have some available time, I usually read, swim, and run. I have ubiquitous interest on different topics of the books, including Computer Science, Philosophy, History, Politics, Literature, and Detective Fiction
+When I have some available time, I usually read, swim, and run. I have ubiquitous interest on different topics of the books, including Computer Science, Philosophy, History, Politics, Literature, and Detective Fiction.
+
 Some recommended books:
-- **Research Related:** 《How To Read a Book》, 《Style, Toward Clarity and Grace》, 《The Craft of Research》
-- **Philosophy** 《The Book of Why》, 《The Structure of Scientific Revolutions》，《The Big Questions: A Short Introduction to Philosophy》
-- **Literature** 《百年孤独》,《战争与和平》,《三国演义》
+- **Research:** 《How To Read a Book》, 《Style, Toward Clarity and Grace》, 《The Craft of Research》
+- **Philosophy:** 《The Book of Why》, 《The Structure of Scientific Revolutions》，《The Big Questions: A Short Introduction to Philosophy》
+- **Literature:** 《百年孤独》,《战争与和平》,《三国演义》
 

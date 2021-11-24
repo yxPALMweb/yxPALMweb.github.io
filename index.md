@@ -8,8 +8,8 @@ I am now an Associate professor at [PALM](http://palm.seu.edu.cn/home.html) lab,
 
 ## Research Interests
 I have wide interest on AI, especially machine learning and deep learning. In the past and future few years, I will focus on the following topics:
-- **Computer Vision:** image captioning, vision reasoning
-- **Machine Learning:** structural learning, causal inference, Label Distribution Learning
+- **Computer Vision:** Image Captioning, Vision Reasoning
+- **Machine Learning:** Structural Learning, Causal Inference, Label Distribution Learning
 
 ## Selected Publications
 [comment]: <> (TPAMI)

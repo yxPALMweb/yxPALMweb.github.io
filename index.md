@@ -8,10 +8,117 @@ I am now an Associate Professor at [PALM](http://palm.seu.edu.cn/home.html) lab,
 
 ## Research Interests
 I have wide interest on AI, especially machine learning and deep learning. In the past and future few years, I will focus on the following topics:
-- **Computer Vision:** Image Captioning, Vision Reasoning
-- **Machine Learning:** Structural Learning, Causal Inference, Label Distribution Learning
+- **In-Context Learning** 
+- **Learngene** 
+- **Large Language Model** 
+- **Large Vision-Language Model** 
+- **Image Captioning** 
 
 ## Selected Publications
+[comment]: <> (NeurIPS2023.)
+<div class="paper">
+<p><strong>Exploring Diverse In-Context Configurations for Image Captioning</strong>
+<br />
+<strong>Xu Yang</strong>, Yongliang Wu, Mingzhuo Yang, Haokun Chen, Xin Geng
+<br />
+<em>arXiv preprint arXiv:2305.14800.<strong><i style="color:#1e90ff">NeurIPS2023</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2305.14800">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (acl2023.)
+<div class="paper">
+<p><strong>Transforming Visual Scene Graphs to Image Captions</strong>
+<br />
+<strong>Xu Yang</strong>, Jiawei Peng, Zihua Wang, Haiyang Xu, Qinghao Ye, Chenliang Li, Ming Yan, Fei Huang, Zhangzikang Li, Yu Zhang
+<br />
+<em>arXiv preprint arXiv:2305.02177.<strong><i style="color:#1e90ff">ACL 2023</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2305.02177">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (arXiv)
+<div class="paper">
+<p><strong>Learning Trajectory-Word Alignments for Video-Language Tasks</strong>
+<br />
+<strong>Xu Yang</strong>, Zhangzikang Li, Haiyang Xu, Hanwang Zhang, Qinghao Ye, Chenliang Li, Ming Yan, Yu Zhang, Fei Huang, Songfang Huang
+<br />
+<em>arXiv preprint arXiv:2301.01953</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2301.01953">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (IJCV)
+<div class="paper">
+<p><strong>Learning to Collocate Visual-Linguistic Neural Modules for Image Captioning</strong>
+<br />
+<strong>Xu Yang</strong>, Hanwang Zhang, Chongyang Gao, Jianfei Cai 
+<br />
+<em>International Journal of Computer Vision, 1-19.<strong><i style="color:#1e90ff">IJCV 2023</i></strong>.</em>
+<br /> 
+   [<a href="https://link.springer.com/article/10.1007/s11263-022-01692-8">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (arXiv)
+<div class="paper">
+<p><strong>Image Captioning In the Transformer Age</strong>
+<br />
+<strong>Xu Yang</strong>, Li Li, Haiyang Xu, Songfang Huang, Fei Huang, Jianfei Cai
+<br />
+<em>arXiv preprint arXiv:2204.07374</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2204.07374">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (cvpr2022.)
+<div class="paper">
+<p><strong>Show, Deconfound and Tell: Image Captioning With Causal Inference</strong>
+<br />
+Bing Liu, Dong Wang, <strong>Xu Yang</strong>, Yong Zhou, Rui Yao, Zhiwen Shao, Jiaqi Zhao
+<br />
+<em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">CVPR 2022</i></strong>.</em>
+<br /> 
+   [<a href="https://ieeexplore.ieee.org/document/9880383">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (cvpr2022.)
+<div class="paper">
+<p><strong>EMScore: Evaluating Video Captioning via Coarse-Grained and Fine-Grained Embedding Matching</strong>
+<br />
+Yaya Shi, <strong>Xu Yang</strong>, Haiyang Xu, Chunfeng Yuan, Bing Li, Weiming Hu, Zheng-Jun Zha
+<br />
+<em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">CVPR 2022</i></strong>.</em>
+<br /> 
+   [<a href="https://doi.org/10.48550/arXiv.2111.08919">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (PRL)
+<div class="paper">
+<p><strong>Image captioning with transformer and knowledge graph</strong>
+<br />
+Yu Zhang, Xinyu Shi, Siya Mi, <strong>Xu Yang</strong>
+<br />
+<em>Pattern Recognition Letters 143, 43-49.<strong><i style="color:#1e90ff">PRL</i></strong>.</em>
+<br /> 
+   [<a href="https://doi.org/10.1016/j.patrec.2020.12.020">Web</a>]
+<br/>
+</p>
+</div>
+
 [comment]: <> (TPAMI)
 <div class="paper">
 <p><strong>Deconfounded image captioning: A causal retrospect</strong>
@@ -158,4 +265,3 @@ Some recommended books:
 - **Research:** 《How To Read a Book》《Style, Toward Clarity and Grace》《The Craft of Research》
 - **Philosophy:** 《The Book of Why》 《The Structure of Scientific Revolutions》《The Big Questions: A Short Introduction to Philosophy》
 - **Literature:** 《百年孤独》《战争与和平》《三国演义》
-

@@ -47,7 +47,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 <br />
 <strong>Xu Yang</strong>, Zhangzikang Li, Haiyang Xu, Hanwang Zhang, Qinghao Ye, Chenliang Li, Ming Yan, Yu Zhang, Fei Huang, Songfang Huang
 <br />
-<em>arXiv preprint arXiv:2301.01953</em>
+<em>arXiv preprint arXiv:2301.01953<strong><i style="color:#1e90ff">ICCV 2023</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/abs/2301.01953">Web</a>]
 <br/>
@@ -63,19 +63,6 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 <em>International Journal of Computer Vision, 1-19.<strong><i style="color:#1e90ff">IJCV 2023</i></strong>.</em>
 <br /> 
    [<a href="https://link.springer.com/article/10.1007/s11263-022-01692-8">Web</a>]
-<br/>
-</p>
-</div>
-
-[comment]: <> (arXiv)
-<div class="paper">
-<p><strong>Image Captioning In the Transformer Age</strong>
-<br />
-<strong>Xu Yang</strong>, Li Li, Haiyang Xu, Songfang Huang, Fei Huang, Jianfei Cai
-<br />
-<em>arXiv preprint arXiv:2204.07374</em>
-<br /> 
-   [<a href="https://arxiv.org/abs/2204.07374">Web</a>]
 <br/>
 </p>
 </div>

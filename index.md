@@ -21,7 +21,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 <br />
 <strong>Xu Yang</strong>, Yongliang Wu, Mingzhuo Yang, Haokun Chen, Xin Geng
 <br />
-<em>arXiv preprint arXiv:2305.14800.<strong><i style="color:#1e90ff">NeurIPS2023</i></strong>.</em>
+<em>AnnualConferenceonNeuralInformationProcessingSystems.<strong><i style="color:#1e90ff">NeurIPS2023</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/abs/2305.14800">Web</a>]
 <br/>
@@ -34,20 +34,20 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 <br />
 <strong>Xu Yang</strong>, Jiawei Peng, Zihua Wang, Haiyang Xu, Qinghao Ye, Chenliang Li, Ming Yan, Fei Huang, Zhangzikang Li, Yu Zhang
 <br />
-<em>arXiv preprint arXiv:2305.02177.<strong><i style="color:#1e90ff">ACL 2023</i></strong>.</em>
+<em>Association for Computational Linguistics.<strong><i style="color:#1e90ff">ACL 2023</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/abs/2305.02177">Web</a>]
 <br/>
 </p>
 </div>
 
-[comment]: <> (arXiv)
+[comment]: <> (iccv2023)
 <div class="paper">
 <p><strong>Learning Trajectory-Word Alignments for Video-Language Tasks</strong>
 <br />
 <strong>Xu Yang</strong>, Zhangzikang Li, Haiyang Xu, Hanwang Zhang, Qinghao Ye, Chenliang Li, Ming Yan, Yu Zhang, Fei Huang, Songfang Huang
 <br />
-<em>arXiv preprint arXiv:2301.01953<strong><i style="color:#1e90ff">ICCV 2023</i></strong>.</em>
+<em>International Conference on Computer Vision.<strong><i style="color:#1e90ff">ICCV 2023</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/abs/2301.01953">Web</a>]
 <br/>

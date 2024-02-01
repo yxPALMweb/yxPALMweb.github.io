@@ -15,6 +15,45 @@ I have wide interest on AI, especially machine learning and deep learning, recen
 - **Image Captioning** 
 
 ## Selected Publications
+[comment]: <> (arXiv.)
+<div class="paper">
+<p><strong>How to Configure Good In-Context Sequence for Visual Question Answering</strong>
+<br />
+Li Li, Jiawei Peng, Huiyi Chen, Chongyang Gao, <strong>Xu Yang</strong>
+<br />
+<em>Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">arXiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2312.10104">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (arXiv.)
+<div class="paper">
+<p><strong>ICD-LM: Configuring Vision-Language In-Context Demonstrations by Language Modeling</strong>
+<br />
+Yingzhe Peng, <strong>Xu Yang</strong>, Haoxuan Ma, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang Zhang
+<br />
+<em>Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">arXiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2312.01571">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (arXiv.)
+<div class="paper">
+<p><strong>Manipulating the Label Space for In-Context Classification</strong>
+<br />
+Haokun Chen, <strong>Xu Yang</strong>, Yuhang Huang, Zihan Wu, Jing Wang, Xin Geng
+<br />
+<em>Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">arXiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2312.00351">Web</a>]
+<br/>
+</p>
+</div>
+
 [comment]: <> (NeurIPS2023.)
 <div class="paper">
 <p><strong>Exploring Diverse In-Context Configurations for Image Captioning</strong>

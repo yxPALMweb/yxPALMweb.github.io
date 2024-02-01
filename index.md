@@ -7,7 +7,7 @@ layout: homepage
 I am now an Associate Professor at [PALM](http://palm.seu.edu.cn/home.html) lab, Department of Computer Science, Southeast University (SEU), China. I got my B.S. degree from Nanjing University of Posts and Telecommunications (NUPT), M.S. degree from Southeast University (SEU) supervised by Prof Xin Geng, and Ph.D. from Nanyang Technological University (NTU) supervised by Prof Jianfei Cai and Prof Hanwang Zhang. 
 
 ## Research Interests
-I have wide interest on AI, especially machine learning and deep learning. In the past and future few years, I will focus on the following topics:
+I have wide interest on AI, especially machine learning and deep learning. In the past and future few years, I will focus on the following topics, recently, I especially focus on multi-model in-context learning and learngene framework:
 - **In-Context Learning** 
 - **Learngene** 
 - **Large Language Model** 

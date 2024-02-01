@@ -23,7 +23,7 @@ Li Li, Jiawei Peng, Huiyi Chen, Chongyang Gao, <strong>Xu Yang</strong>
 <br />
 <em>Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">arXiv</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/abs/2312.10104">Web</a>]
+   [<a href="https://arxiv.org/abs/2312.01571">Web</a>]
 <br/>
 </p>
 </div>
@@ -36,7 +36,7 @@ Yingzhe Peng, <strong>Xu Yang</strong>, Haoxuan Ma, Shuo Xu, Chi Zhang, Yucheng 
 <br />
 <em>Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">arXiv</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/abs/2312.01571">Web</a>]
+   [<a href="https://arxiv.org/abs/2312.10104">Web</a>]
 <br/>
 </p>
 </div>

@@ -15,13 +15,13 @@ I have wide interest on AI, especially machine learning and deep learning, recen
 - **Image Captioning** 
 
 ## Selected Publications
-[comment]: <> (arXiv.)
+[comment]: <> (cvpr2024.)
 <div class="paper">
 <p><strong>How to Configure Good In-Context Sequence for Visual Question Answering</strong>
 <br />
 Li Li, Jiawei Peng, Huiyi Chen, Chongyang Gao, <strong>Xu Yang</strong>
 <br />
-<em>Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">arXiv</i></strong>.</em>
+<em>Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">CVPR 2024</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/abs/2312.01571">Web</a>]
 <br/>
@@ -60,7 +60,7 @@ Haokun Chen, <strong>Xu Yang</strong>, Yuhang Huang, Zihan Wu, Jing Wang, Xin Ge
 <br />
 <strong>Xu Yang</strong>, Yongliang Wu, Mingzhuo Yang, Haokun Chen, Xin Geng
 <br />
-<em>AnnualConferenceonNeuralInformationProcessingSystems.<strong><i style="color:#1e90ff">NeurIPS2023</i></strong>.</em>
+<em>Annual Conference on Neural Information Processing Systems.<strong><i style="color:#1e90ff">NeurIPS2023</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/abs/2305.14800">Web</a>]
 <br/>

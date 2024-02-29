@@ -21,7 +21,7 @@ I have wide interest on AI, especially machine learning and deep learning, recen
 <br />
 Li Li, Jiawei Peng, Huiyi Chen, Chongyang Gao, <strong>Xu Yang</strong>
 <br />
-<em>Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">CVPR 2024</i></strong>.</em>
+<em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">CVPR 2024</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/abs/2312.01571">Web</a>]
 <br/>

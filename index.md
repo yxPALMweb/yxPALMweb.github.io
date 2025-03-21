@@ -21,6 +21,19 @@ I have wide interest on AI, especially machine learning and deep learning, recen
 - 紫金青年学者
 
 ## Selected Publications
+[comment]: <> (IJCV.)
+<div class="paper">
+<p><strong>Learning to collocate visual-linguistic neural modules for image captioning</strong>
+<br />
+<strong>Xu Yang</strong>, Hanwang Zhang, Chongyang Gao, Jianfei Cai
+<br />
+<em>International Journal of Computer Vision.<strong><i style="color:#1e90ff">IJCV 2023</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/1904.08608">Web</a>]
+<br/>
+</p>
+</div>
+
 [comment]: <> (cvpr2024.)
 <div class="paper">
 <p><strong>How to Configure Good In-Context Sequence for Visual Question Answering</strong>

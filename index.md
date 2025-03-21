@@ -21,6 +21,19 @@ I have wide interest on AI, especially machine learning and deep learning, recen
 - 紫金青年学者
 
 ## Selected Publications
+[comment]: <> (NIPS.)
+<div class="paper">
+<p><strong>Lever LM: Configuring in-context sequence to lever large vision language models</strong>
+<br />
+<strong>Xu Yang</strong>, Yingzhe Peng, Haoxuan Ma, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang Zhang
+<br />
+<em>Conference and Workshop on Neural Information Processing Systems.<strong><i style="color:#1e90ff">NeurIPS 2024</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2312.10104">Web</a>]
+<br/>
+</p>
+</div>
+
 [comment]: <> (IJCV.)
 <div class="paper">
 <p><strong>Learning to collocate visual-linguistic neural modules for image captioning</strong>

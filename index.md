@@ -34,6 +34,84 @@ I have wide interest on AI, especially machine learning and deep learning, recen
 </p>
 </div>
 
+[comment]: <> (AAAI.)
+<div class="paper">
+<p><strong>Video Repurposing from User Generated Content: A Large-scale Dataset and Benchmark</strong>
+<br />
+Yongliang Wu, Wenbo Zhu, Jiawang Cao, Yi Lu, Bozheng Li, Weiheng Chi, Zihan Qiu, Lirian Su, Haolin Zheng, Jay Wu, <strong>Xu Yang</strong>
+<br />
+<em>Association for the Advancement of Artificial Intelligence.<strong><i style="color:#1e90ff">AAAI 2025</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2412.08879">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (NIPS.)
+<div class="paper">
+<p><strong>Cluster-Learngene: Inheriting Adaptive Clusters for Vision Transformers</strong>
+<br />
+Qiufeng Wang, <strong>Xu Yang</strong>, Fu Feng, Jing wang, Xin Geng
+<br />
+<em>Conference and Workshop on Neural Information Processing Systems.<strong><i style="color:#1e90ff">NeurIPS 2024</i></strong>.</em>
+<br /> 
+   [<a href="https://neurips.cc/virtual/2024/poster/96334">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (ICML.)
+<div class="paper">
+<p><strong>Vision Transformers as Probabilistic Expansion from Learngene</strong>
+<br />
+Qiufeng Wang, <strong>Xu Yang</strong>, Haokun Chen, Xin Geng
+<br />
+<em>International Conferenceon Machine Learning.<strong><i style="color:#1e90ff">ICML 2024</i></strong>.</em>
+<br /> 
+   [<a href="https://openreview.net/forum?id=5ExWEazod5">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (NIPS.)
+<div class="paper">
+<p><strong>Initializing Variable-sized Vision Transformers from Learngene with Learnable Transformation</strong>
+<br />
+Shiyu Xia, Yuankun Zu, <strong>Xu Yang</strong>, Xin Geng
+<br />
+<em>Conference and Workshop on Neural Information Processing Systems.<strong><i style="color:#1e90ff">NeurIPS 2024</i></strong>.</em>
+<br /> 
+   [<a href="https://neurips.cc/virtual/2024/poster/96427">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (NIPS.)
+<div class="paper">
+<p><strong>LIVE: Learnable In-Context Vector for Visual Question Answering</strong>
+<br />
+Yingzhe Peng, Chenduo Hao, <strong>Xu Yang</strong>, Jiawei Peng, Xinting Hu, Xin Geng
+<br />
+<em>Conference and Workshop on Neural Information Processing Systems.<strong><i style="color:#1e90ff">NeurIPS 2024</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2406.13185">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (NIPS.)
+<div class="paper">
+<p><strong>Linearly Decomposing and Recomposing Vision Transformers for Diverse-Scale Models</strong>
+<br />
+Shuxia Lin, Miaosen Zhang, Ruiming Chen, <strong>Xu Yang</strong>, Qiufeng Wang, Xin Geng
+<br />
+<em>Conference and Workshop on Neural Information Processing Systems.<strong><i style="color:#1e90ff">NeurIPS 2024</i></strong>.</em>
+<br /> 
+   [<a href="https://openreview.net/forum?id=Yhd0yzC8yD">Web</a>]
+<br/>
+</p>
+</div>
+
 [comment]: <> (IJCV.)
 <div class="paper">
 <p><strong>Learning to collocate visual-linguistic neural modules for image captioning</strong>

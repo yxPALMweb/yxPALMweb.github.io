@@ -52,6 +52,32 @@ Yongliang Wu, Wenbo Zhu, Jiawang Cao, Yi Lu, Bozheng Li, Weiheng Chi, Zihan Qiu,
 </p>
 </div>
 
+[comment]: <> (cvpr.)
+<div class="paper">
+<p><strong>Number it: Temporal Grounding Videos like Flipping Manga</strong>
+<br />
+Yongliang Wu, Xinting Hu, Yuyang Sun, Yizhou Zhou, Wenbo Zhu, Fengyun Rao, Bernt Schiele, <strong>Xu Yang</strong>
+<br />
+<em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">CVPR 2024</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2411.10332">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (cvpr.)
+<div class="paper">
+<p><strong>Devils in middle layers of large vision-language models: Interpreting, detecting and mitigating object hallucinations via attention lens</strong>
+<br />
+Zhangqi Jiang, Junkai Chen, Beier Zhu, Tingjin Luo, Yankun Shen, <strong>Xu Yang</strong>
+<br />
+<em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.<strong><i style="color:#1e90ff">CVPR 2024</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2411.16724">Web</a>]
+<br/>
+</p>
+</div>
+
 [comment]: <> (NIPS.)
 <div class="paper">
 <p><strong>Cluster-Learngene: Inheriting Adaptive Clusters for Vision Transformers</strong>

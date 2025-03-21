@@ -20,6 +20,11 @@ I have wide interest on AI, especially machine learning and deep learning, recen
 - 江苏省双创博士
 - 紫金青年学者
 
+## Competition
+- CVPR2024 Long-Form Video Understanding Workshop Track 1: Long-Term Video Question Answering Highest Score Award
+- ECCV 2024  The Second Perception Test Challenge Workshop HOUR-LONG VIDEO-QA track BSET PERFORMANCE
+- ECCV 2024  The Second Perception Test Challenge Workshop MULTIPLE-CHOICE VIDEO-QA track BSET PERFORMANCE
+
 ## Selected Publications
 [comment]: <> (NIPS.)
 <div class="paper">

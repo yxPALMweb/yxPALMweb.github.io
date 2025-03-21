@@ -14,6 +14,12 @@ I have wide interest on AI, especially machine learning and deep learning, recen
 - **Large Vision-Language Model** 
 - **Image Captioning** 
 
+## Honorary Title
+- 2024 年全球前 2% 顶尖科学家
+- 江苏省科协青年科技托举人才
+- 江苏省双创博士
+- 紫金青年学者
+
 ## Selected Publications
 [comment]: <> (cvpr2024.)
 <div class="paper">
